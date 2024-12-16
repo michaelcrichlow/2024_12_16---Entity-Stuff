@@ -1,0 +1,114 @@
+[
+	{
+		"rect": {
+			"x": 224.00000000,
+			"y": 64.00000000,
+			"width": 16.00000000,
+			"height": 16.00000000
+		},
+		"texture": {
+			"id": 121,
+			"width": 16,
+			"height": 16,
+			"mipmaps": 1,
+			"format": 4
+		},
+		"vx": 0.00000000,
+		"vy": 0.00000000,
+		"visible": true,
+		"id": 1,
+		"et": 1,
+		"variant": {
+			"$data": {
+				"alarm_wait_time": 90,
+				"spawn_bullet": 0
+			},
+			"$name": "BulletSpawnerRight",
+			"$tag": 2
+		}
+	},
+	{
+		"rect": {
+			"x": 224.00000000,
+			"y": 96.00000000,
+			"width": 16.00000000,
+			"height": 16.00000000
+		},
+		"texture": {
+			"id": 121,
+			"width": 16,
+			"height": 16,
+			"mipmaps": 1,
+			"format": 4
+		},
+		"vx": 0.00000000,
+		"vy": 0.00000000,
+		"visible": true,
+		"id": 4,
+		"et": 1,
+		"variant": {
+			"$data": {
+				"alarm_wait_time": 90,
+				"spawn_bullet": 0
+			},
+			"$name": "BulletSpawnerRight",
+			"$tag": 2
+		}
+	},
+	{
+		"rect": {
+			"x": 320.00000000,
+			"y": 64.00000000,
+			"width": 16.00000000,
+			"height": 16.00000000
+		},
+		"texture": {
+			"id": 121,
+			"width": 16,
+			"height": 16,
+			"mipmaps": 1,
+			"format": 4
+		},
+		"vx": 0.00000000,
+		"vy": 0.00000000,
+		"visible": true,
+		"id": 7,
+		"et": 1,
+		"variant": {
+			"$data": {
+				"alarm_wait_time": 90,
+				"spawn_bullet": 0
+			},
+			"$name": "BulletSpawnerRight",
+			"$tag": 2
+		}
+	},
+	{
+		"rect": {
+			"x": 320.00000000,
+			"y": 96.00000000,
+			"width": 16.00000000,
+			"height": 16.00000000
+		},
+		"texture": {
+			"id": 121,
+			"width": 16,
+			"height": 16,
+			"mipmaps": 1,
+			"format": 4
+		},
+		"vx": 0.00000000,
+		"vy": 0.00000000,
+		"visible": true,
+		"id": 11,
+		"et": 1,
+		"variant": {
+			"$data": {
+				"alarm_wait_time": 90,
+				"spawn_bullet": 0
+			},
+			"$name": "BulletSpawnerRight",
+			"$tag": 2
+		}
+	}
+]
